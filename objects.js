@@ -1,5 +1,5 @@
 var playlist = {
-  artistName : ”song”
+  Dio : ”cane”
 };
 
 function updatePlaylist(playlist,artistName,songTitle){
