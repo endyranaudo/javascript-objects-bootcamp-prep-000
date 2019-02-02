@@ -9,5 +9,3 @@ function updatePlaylist(playlist, artist, song) {
   return playlist
 }
 
-updatePlaylist(playlist,'Metallica', 'Battery')
-console.log(playlist)
