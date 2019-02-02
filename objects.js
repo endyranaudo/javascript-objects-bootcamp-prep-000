@@ -1,11 +1,8 @@
-var playlist = {
-  artistName : ”song”
-};
-
-function updatePlaylist(playlist,artistName,songTitle){
-  playlist[artistName] = songTitle
+let playlist = {
+  Phil Ochs: "Here's to the State of Mississippi"
 }
 
-function removeFromPlaylist(playlist, artistName){
-  delete playlist[artistName];
+function updatePlaylist(playlist, artistName, songTitle){
+  playlist.Slowdive = "Allison";
+  playlist["My Bloody Valentine"] = "Sometimes";
 }
