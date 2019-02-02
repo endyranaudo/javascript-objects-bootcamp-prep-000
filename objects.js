@@ -1,6 +1,6 @@
 var playlist = {} 
-playlist.Beyonce = 'fear' 
-playlist['BTS'] = 'fire' 
+playlist.Queen = 'Innuendo' 
+playlist['Led Zeppelin'] = 'Black Dog' 
 
  
 
@@ -9,5 +9,5 @@ function updatePlaylist(playlist, artist, song) {
   return playlist
 }
 
-updatePlaylist(playlist,'Taylor', 'red')
+updatePlaylist(playlist,'Metallica', 'Battery')
 console.log(playlist)
