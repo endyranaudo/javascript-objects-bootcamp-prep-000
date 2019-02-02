@@ -1,4 +1,4 @@
 let playlist = {
-  Phil Ochs: "Here's to the State of Mississippi"
+  PhilOchs: "Here's to the State of Mississippi"
 }
 
